@@ -1,0 +1,110 @@
+/* Mis estilos personalizados para mi pagina web */
+header{
+    background: cadetblue;
+ 
+    
+ 
+}
+body {
+    background: #f1f2f6;
+    height: 233px;
+
+}
+
+h3 {
+    text-align: center;
+    color: cadetblue;
+}
+
+h5 {
+    color: gray;
+}
+
+font-family: 'Montserrat',
+sans-serif;
+
+.container {
+
+    align-content:center;
+    color: darkgrey;
+    height: 500px;
+    margin: 500px;
+    padding-left: 300px;
+ 
+}
+
+hr {
+    height: 50px;
+
+}
+
+
+h3 {
+    text-align: center;
+    color: cadetblue;
+}
+
+img{
+    
+    top: 500px;
+}
+
+.container {
+    align-content: center;
+    height: 312px;
+    margin: 1rem auto;
+   width: 393px;
+    top: 70px;
+
+
+}
+
+h6 {
+    width: 500px;
+    margin: 2%;
+}
+
+h2 {
+    text-align: center;
+}
+
+.padre {
+
+    height: 135px;
+    margin: 2rem auto;
+    text-align: center;
+    width: 300px; 
+
+}
+
+
+
+.button {
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    margin-left: 600px;
+}
+
+
+li {
+    margin: 0.75rem;
+
+}
+
+h5{
+    text-align: center;
+    color: azure;
+}
+
+.page-footer {
+    background-color: #30336b;
+}
+img{
+    image-orientation: 650px;
+}
+
+
